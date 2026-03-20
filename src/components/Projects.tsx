@@ -25,7 +25,7 @@ const PROJECTS: Project[] = [
   {
     name: "Arena",
     desc: "Advanced 2D game.",
-    stack: [null],
+    stack: ["JavaScript", "React"],
     status: "In Progress",
     github: "https://github.com/milanethdev",
     emoji: "🏟️",
