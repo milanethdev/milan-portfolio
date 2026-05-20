@@ -6,7 +6,7 @@ const ITEMS = [
     company: 'Binance',
     period: '2023 – 2024',
     duration: '~1 year',
-    desc: 'Community representative and ambassador for the Binance ecosystem. Supported the global Binance community, organized educational events, and provided user support for trading platforms and DeFi products.',
+    desc: 'Community representative and ambassador for the Binance ecosystem. Supported the Binance community, organized educational events, and provided user support for trading platforms and DeFi products.',
     tags: ['Community', 'Crypto', 'DeFi', 'BNB', 'Trading'],
     color: '#f0b90b',
     icon: '🟡',
