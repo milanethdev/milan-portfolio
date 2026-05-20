@@ -92,8 +92,8 @@ export default function About() {
                   tools.
                 </p>
                 <p>
-                  I work with React, Node.js and modern JavaScript — constantly
-                  pushing what's possible in the browser. Former{" "}
+                  I work with React, Node.js and modern JavaScript, constantly
+                  pushing what's possible in the browser. {" "}
                   <span className="text-hack-cyan">Binance Angel</span>.
                 </p>
                 <p>Currently building the future, one commit at a time. 🚀</p>
